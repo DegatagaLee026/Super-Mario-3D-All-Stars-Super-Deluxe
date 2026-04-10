@@ -1,6 +1,6 @@
 # Super-Mario-3D-All-Stars-Super-Deluxe
 <img width="2160" height="540" alt="3D All Stars SUPER DELUXE banner" src="https://github.com/user-attachments/assets/77c1f929-bc1e-453b-a49c-995f20c250ed" />
-This modification of Super Mario 3D All-Stars Deluxe by Minibattle adds up to four additional games to the launcher:
+This modification of [Super Mario 3D All-Stars Deluxe](https://gitlab.com/Minibattle/super-mario-3d-all-stars-deluxe) by Minibattle adds up to four additional games to the launcher:
 
 - Super Mario 64 DS
 - Super Mario Eclipse
@@ -11,7 +11,7 @@ The result is a complete collection of every mainline 3D Mario game, plus Sunshi
 Furthermore, Super Mario 64 DS includes an Analog Hack and is preconfigured to run at 4 times the base DS resolution.
 You may choose which games to install during setup.
 
-If you do not have Super Mario 3D All-Stars Deluxe, you can find it here: https://gitlab.com/Minibattle/super-mario-3d-all-stars-deluxe#download-here
+[DOWNLOAD HERE](https://github.com/DegatagaLee026/Super-Mario-3D-All-Stars-Super-Deluxe/releases/tag/v1.0)
 
 ## Files you will need
 - Super Mario 64 DS.nds
