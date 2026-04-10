@@ -1,5 +1,6 @@
 # Super-Mario-3D-All-Stars-Super-Deluxe
-This modification of Super Mario 3D All-Stars Deluxe adds up to four additional games to the launcher:
+This modification of [Super Mario 3D All-Stars Deluxe](https://gitlab.com/Minibattle/super-mario-3d-all-stars-deluxe#download-here) adds up to four additional games to the launcher:
+
 - Super Mario 64 DS
 - Super Mario Eclipse
 - Super Mario 3D World + Bowser's Fury
@@ -11,18 +12,18 @@ You may choose which games to install during setup.
 
 
 ## Files you will need
--Super Mario 64 DS.nds
--Super Mario Eclipse.iso
--Super Mario 3D World + Bowser's Fury.nsp
--Super Mario Odyssey.nsp
--Switch emulator of your choice
+- Super Mario 64 DS.nds
+- Super Mario Eclipse.iso
+- Super Mario 3D World + Bowser's Fury.nsp
+- Super Mario Odyssey.nsp
+- Switch emulator of your choice
 
 You may omit any games that you do not wish to have, including the switch emulator if you don't want to install 3D World or Odyssey.
 This mod supports USA Rev 0 and USA Rev 1 of Super Mario 64 DS.
 
 
 
-##File Names and Locations
+## File Names and Locations
 All ROMs must be named exactly as shown. 
 Furthermore, if you are adding a switch emulator, ensure the .exe file is named "switchemulator.exe" and the root folder is named "Switch".
 File and folder structure should look like this:
@@ -50,24 +51,24 @@ Super Mario 3D All-Stars Deluxe/
 
 
 ## Known Issues
-- When using certain switch emulators (Yuzu, Ryujinx, Citron), the launcher is unable to boot straight into Odyssey or 3d World. Instead, it will just open the emulator without booting a game. 
+When using certain switch emulators (Yuzu, Ryujinx, Citron), the launcher is unable to boot straight into Odyssey or 3d World. Instead, it will just open the emulator without booting a game. 
 For best compatibility, use Eden, as that is the only one known to be able to boot straight into games without any additional input.
 
 
 ## Other tools available through this mod
 - Uninstall Mod 
-  Removes all files added by the installer. 
-  (ROMs and Switch Emulator must be removed manually.)
+  - Removes all files added by the installer. 
+  - (ROMs and Switch Emulator must be removed manually.)
 
 - Configure Switch Emulator
-  Launches "switchemulator.exe" without starting a game, allowing you to configure settings and controls.
+  - Launches "switchemulator.exe" without starting a game, allowing you to configure settings and controls.
 
 - Restore Super Mario 64 DS Save
-  Restores a previously backed-up save file to DeSmuME's Battery folder. 
-  (Backups can be created during uninstallation.)
+  - Restores a previously backed-up save file to DeSmuME's Battery folder. 
+  - (Backups can be created during uninstallation.)
 
 - Change Installation Folder
-  Allows you to change the installation directory without restarting the installer.
+  - Allows you to change the installation directory without restarting the installer.
 
 
 ## Compatibility
