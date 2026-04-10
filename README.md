@@ -10,7 +10,7 @@ Furthermore, Super Mario 64 DS includes an Analog Hack and is preconfigured to r
 You may choose which games to install during setup.
 
 
-##Files you will need
+## Files you will need
 -Super Mario 64 DS.nds
 -Super Mario Eclipse.iso
 -Super Mario 3D World + Bowser's Fury.nsp
@@ -27,6 +27,7 @@ All ROMs must be named exactly as shown.
 Furthermore, if you are adding a switch emulator, ensure the .exe file is named "switchemulator.exe" and the root folder is named "Switch".
 File and folder structure should look like this:
 
+```text
 Super Mario 3D All-Stars Deluxe/
 ├── data/
 │   ├── Switch/
@@ -37,9 +38,9 @@ Super Mario 3D All-Stars Deluxe/
 │       ├── Super Mario Eclipse.iso
 │       ├── Super Mario 3D World + Bowser's Fury.nsp
 │       └── Super Mario Odyssey.nsp
+```
 
-
-##How to install games to the launcher
+## How to install games to the launcher
 1) Place files in appropriate locations with exact names.
 2) Run the "install.bat" file located in the same folder as the readme.txt.
 3) Select the location of your Super Mario 3D All-Stars Deluxe folder.
@@ -48,12 +49,12 @@ Super Mario 3D All-Stars Deluxe/
 6) Complete! Run "Super Mario 3D All-Stars DELUXE.exe" and you should see your new games on the launcher.
 
 
-##Known Issues
+## Known Issues
 - When using certain switch emulators (Yuzu, Ryujinx, Citron), the launcher is unable to boot straight into Odyssey or 3d World. Instead, it will just open the emulator without booting a game. 
 For best compatibility, use Eden, as that is the only one known to be able to boot straight into games without any additional input.
 
 
-##Other tools available through this mod
+## Other tools available through this mod
 - Uninstall Mod 
   Removes all files added by the installer. 
   (ROMs and Switch Emulator must be removed manually.)
@@ -69,17 +70,17 @@ For best compatibility, use Eden, as that is the only one known to be able to bo
   Allows you to change the installation directory without restarting the installer.
 
 
-##Compatibility
+## Compatibility
 This installer is designed for Windows 10 and Windows 11.
 
 
-##Credits
+## Credits
 - Super Mario 3D All-Stars Deluxe - Minibattle
 - Super Mario Eclipse icon assets - Some-Crappy-Edits of Eclipse Team
 - DeSmuME with Analog Hack for SM64DS - LRFLEW
 - DeSmuME originally by YopYop156
 
-##DeSmuME Emulator
+## DeSmuME Emulator
 This project includes a modified build of DeSmuME, an open-source Nintendo DS emulator.
 
 DeSmuME is licensed under the GNU General Public License (GPL). See LICENSE_desmume.txt for details.
@@ -87,7 +88,7 @@ Source code and original project can be found at:
 https://github.com/LRFLEW/AM64DS_DeSmuME
 
 
-##Disclaimer
+## Disclaimer
 This project is a fan-made modification and is not affiliated with, endorsed by, or supported by Nintendo or any of its subsidiaries.
 
 This installer does not include any copyrighted game files or ROMs. Users are required to supply their own legally obtained game files.
