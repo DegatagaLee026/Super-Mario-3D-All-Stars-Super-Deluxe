@@ -90,7 +90,7 @@ This project includes a modified build of DeSmuME, an open-source Nintendo DS em
 
 DeSmuME is licensed under the GNU General Public License (GPL). See LICENSE_desmume.txt for details.
 Source code and original project can be found 
-[HERE](https://github.com/LRFLEW/AM64DS_DeSmuME)
+[HERE](https://github.com/LRFLEW/AM64DS_DeSmuME).
 
 
 ## Disclaimer
