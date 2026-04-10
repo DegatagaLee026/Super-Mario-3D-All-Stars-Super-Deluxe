@@ -10,7 +10,7 @@ This modification of Super Mario 3D All-Stars Deluxe adds up to four additional 
 - Super Mario 3D World + Bowser's Fury
 - Super Mario Odyssey
 
-The result is a complete collection of every mainline 3d Mario game, plus Sunshine's fan-made sequel.
+The result is a complete collection of every mainline 3D Mario game, plus Sunshine's fan-made sequel.
 Furthermore, Super Mario 64 DS includes an Analog Hack and is preconfigured to run at 4 times the base DS resolution.
 You may choose which games to install during setup.
 
@@ -22,14 +22,14 @@ Files you will need:
 -Super Mario Odyssey.nsp
 -Switch emulator of your choice
 
-You may omit any games that you do not wish to have, including the switch emulator if you don't want to install 3d World or Odyssey.
+You may omit any games that you do not wish to have, including the switch emulator if you don't want to install 3D World or Odyssey.
 This mod supports USA Rev 0 and USA Rev 1 of Super Mario 64 DS.
 
 
 
 File Names and Locations:
 All ROMs must be named exactly as shown. 
-Furthermore, if you are adding a switch emulator, ensure the .exe file is named "switchemulator.exe" and the root folder is named "Switch"
+Furthermore, if you are adding a switch emulator, ensure the .exe file is named "switchemulator.exe" and the root folder is named "Switch".
 File and folder structure should look like this:
 
 Super Mario 3D All-Stars Deluxe/
@@ -55,7 +55,7 @@ How to install games to the launcher:
 
 Known Issues:
 - When using certain switch emulators (Yuzu, Ryujinx, Citron), the launcher is unable to boot straight into Odyssey or 3d World. Instead, it will just open the emulator without booting a game. 
-For best compatibility, use the Eden switch emulator, as that is the only one known to be able to boot straight into games without any additional input.
+For best compatibility, use Eden, as that is the only one known to be able to boot straight into games without any additional input.
 
 
 Other tools available through this mod:
