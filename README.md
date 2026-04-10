@@ -1,4 +1,4 @@
-# Super-Mario-3D-All-Stars-Super-Deluxe
+# Super Mario 3D All-Stars Super Deluxe
 <img width="2160" height="540" alt="3D All Stars SUPER DELUXE banner" src="https://github.com/user-attachments/assets/77c1f929-bc1e-453b-a49c-995f20c250ed" />
 
 This modification of [Super Mario 3D All-Stars Deluxe](https://gitlab.com/Minibattle/super-mario-3d-all-stars-deluxe) by Minibattle adds up to four additional games to the launcher:
