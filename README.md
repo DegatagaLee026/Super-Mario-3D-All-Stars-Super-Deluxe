@@ -9,7 +9,9 @@ The result is a complete collection of every mainline 3D Mario game, plus Sunshi
 Furthermore, Super Mario 64 DS includes an Analog Hack and is preconfigured to run at 4 times the base DS resolution.
 You may choose which games to install during setup.
 
-[![Demo](./3D_All_Stars_SUPER_DELUXE.gif)](https://github.com/DegatagaLee026)
+<video autoplay muted loop playsinline width="600">
+  <source src="./3D_All_Stars_SUPER_DELUXE.mp4" type="video/mp4">
+</video>
 
 ## Files you will need
 -Super Mario 64 DS.nds
