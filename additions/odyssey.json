@@ -1,0 +1,10 @@
+,
+    {
+      "name": "Super Mario Odyssey",
+      "romOrExecutablePath": "data/ROMS/Super Mario Odyssey.nsp",
+      "iconPath": "data/Icons/marioodyssey.png",
+	  "logoPath": "data/Logos/marioodyssey.png",
+      "launchSoundPath": "data/Sounds/marioodyssey.wav",
+      "description": "A worldwide quest sending Mario through a variety of kingdoms.",
+      "emulatorRequired": "Switch Emulator"
+    }

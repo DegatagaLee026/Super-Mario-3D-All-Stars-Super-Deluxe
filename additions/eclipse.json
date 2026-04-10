@@ -1,0 +1,9 @@
+    {
+      "name": "Super Mario Eclipse",
+      "romOrExecutablePath": "data/ROMS/Super Mario Eclipse.iso",
+      "iconPath": "data/Icons/marioeclipse.png",
+	  "logoPath": "data/Logos/marioeclipse.png",
+      "launchSoundPath": "data/Sounds/marioeclipse.wav",
+      "description": "A fan-made sequel to Mario Sunshine with new playable characters.",
+      "emulatorRequired": "Dolphin"
+    },

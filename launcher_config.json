@@ -1,0 +1,61 @@
+{
+  "games": [
+    {
+      "name": "Super Mario 64",
+      "romOrExecutablePath": "data/ROMS/Super Mario 64/Super Mario 64.exe",
+      "iconPath": "data/Icons/mario64.png",
+	  "logoPath": "data/Logos/mario64.png",
+      "launchSoundPath": "data/Sounds/mario64.wav",
+      "description": "The classic 3D platformer that introduced Mario to 3D worlds.",
+      "emulatorRequired": "None"
+    },
+    {
+      "name": "Super Mario Sunshine",
+      "romOrExecutablePath": "data/ROMS/Super Mario Sunshine.iso",
+      "iconPath": "data/Icons/mariosunshine.png",
+	  "logoPath": "data/Logos/mariosunshine.png",
+      "launchSoundPath": "data/Sounds/mariosunshine.wav",
+      "description": "Mario’s tropical island adventure with FLUDD.",
+      "emulatorRequired": "Dolphin"
+    },
+    {
+      "name": "Super Mario Galaxy",
+      "romOrExecutablePath": "data/ROMS/Super Mario Galaxy.json",
+      "iconPath": "data/Icons/mariogalaxy1.png",
+	  "logoPath": "data/Logos/mariogalaxy1.png",
+      "launchSoundPath": "data/Sounds/mariogalaxy1.wav",
+      "description": "Mario’s first space adventure exploring galaxies.",
+      "emulatorRequired": "Dolphin"
+    },
+    {
+      "name": "Super Mario Galaxy 2",
+      "romOrExecutablePath": "data/ROMS/Super Mario Galaxy 2.json",
+      "iconPath": "data/Icons/mariogalaxy2.png",
+	  "logoPath": "data/Logos/mariogalaxy2.png",
+      "launchSoundPath": "data/Sounds/mariogalaxy2.wav",
+      "description": "A direct sequel with more galaxies and Yoshi.",
+      "emulatorRequired": "Dolphin"
+    },
+	{
+      "name": "Super Mario 3D Land",
+      "romOrExecutablePath": "data/ROMS/Super Mario 3d Land.cci",
+      "iconPath": "data/Icons/mario3dland.png",
+	  "logoPath": "data/Logos/mario3dland.png",
+      "launchSoundPath": "data/Sounds/mario3dland.wav",
+      "description": "A 3DS adventure blending 2D and 3D Mario gameplay.",
+      "emulatorRequired": "Azahar"
+    }
+  ],
+  "emulators": [
+    {
+      "name": "Dolphin",
+      "executablePath": "data/Wii/dolphin.exe",
+      "launchArguments": "-b -e \"{rom}\""
+    },
+    {
+      "name": "Azahar",
+      "executablePath": "data/3ds/azahar.exe",
+      "launchArguments": "-f \"{rom}\""
+    }
+  ]
+}

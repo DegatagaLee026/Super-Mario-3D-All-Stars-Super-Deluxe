@@ -1,0 +1,10 @@
+,
+    {
+      "name": "Super Mario 3D World + Bowser's Fury",
+      "romOrExecutablePath": "data/ROMS/Super Mario 3D World + Bowser's Fury.nsp",
+      "iconPath": "data/Icons/mario3dworld.png",
+	  "logoPath": "data/Logos/mario3dworld.png",
+      "launchSoundPath": "data/Sounds/mario3dworld.wav",
+      "description": "A remaster of a WiiU classic, now with a whole new expansion.",
+      "emulatorRequired": "Switch Emulator"
+    }

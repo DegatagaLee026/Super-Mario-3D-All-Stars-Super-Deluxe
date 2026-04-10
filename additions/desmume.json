@@ -1,0 +1,5 @@
+    },
+    {
+      "name": "DeSmuME",
+      "executablePath": "data/ds/DeSmuME.exe",
+      "launchArguments": "\"{rom}\""

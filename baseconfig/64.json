@@ -1,0 +1,11 @@
+{
+  "games": [
+    {
+      "name": "Super Mario 64",
+      "romOrExecutablePath": "data/ROMS/Super Mario 64/Super Mario 64.exe",
+      "iconPath": "data/Icons/mario64.png",
+	  "logoPath": "data/Logos/mario64.png",
+      "launchSoundPath": "data/Sounds/mario64.wav",
+      "description": "The classic 3D platformer that introduced Mario to 3D worlds.",
+      "emulatorRequired": "None"
+    },

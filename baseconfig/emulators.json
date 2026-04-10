@@ -1,0 +1,12 @@
+],
+  "emulators": [
+    {
+      "name": "Dolphin",
+      "executablePath": "data/Wii/dolphin.exe",
+      "launchArguments": "-b -e \"{rom}\""
+    },
+    {
+      "name": "Azahar",
+      "executablePath": "data/3ds/azahar.exe",
+      "launchArguments": "-f \"{rom}\""
+ 

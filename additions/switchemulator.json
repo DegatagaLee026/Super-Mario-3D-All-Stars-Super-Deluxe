@@ -1,0 +1,5 @@
+    },
+    {
+      "name": "Switch Emulator",
+      "executablePath": "data/switch/switchemulator.exe",
+      "launchArguments": "-f \"{rom}\""

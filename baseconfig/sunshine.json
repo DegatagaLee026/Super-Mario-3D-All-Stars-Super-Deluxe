@@ -1,0 +1,9 @@
+    {
+      "name": "Super Mario Sunshine",
+      "romOrExecutablePath": "data/ROMS/Super Mario Sunshine.iso",
+      "iconPath": "data/Icons/mariosunshine.png",
+	  "logoPath": "data/Logos/mariosunshine.png",
+      "launchSoundPath": "data/Sounds/mariosunshine.wav",
+      "description": "Mario’s tropical island adventure with FLUDD.",
+      "emulatorRequired": "Dolphin"
+    },

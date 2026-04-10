@@ -1,0 +1,9 @@
+    {
+      "name": "Super Mario 64 DS",
+      "romOrExecutablePath": "data/ROMS/Super Mario 64 DS.nds",
+      "iconPath": "data/Icons/mario64ds.png",
+	  "logoPath": "data/Logos/mario64ds.png",
+      "launchSoundPath": "data/Sounds/mario64ds.wav",
+      "description": "A remake of Mario 64 with three new playable characters",
+      "emulatorRequired": "DeSmuME"
+    },
