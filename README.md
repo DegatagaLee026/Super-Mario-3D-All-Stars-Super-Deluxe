@@ -89,8 +89,8 @@ This installer is designed for Windows 10 and Windows 11.
 This project includes a modified build of DeSmuME, an open-source Nintendo DS emulator.
 
 DeSmuME is licensed under the GNU General Public License (GPL). See LICENSE_desmume.txt for details.
-Source code and original project can be found at:
-https://github.com/LRFLEW/AM64DS_DeSmuME
+Source code and original project can be found 
+[HERE](https://github.com/LRFLEW/AM64DS_DeSmuME)
 
 
 ## Disclaimer
