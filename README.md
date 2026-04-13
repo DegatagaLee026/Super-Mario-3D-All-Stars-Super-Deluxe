@@ -14,7 +14,7 @@ You may choose which games to install during setup.
 
 ### [DOWNLOAD HERE](https://github.com/DegatagaLee026/Super-Mario-3D-All-Stars-Super-Deluxe/releases/tag/v1.0)
 
-### [VIDEO TUTORIAL](https://youtu.be/CsVbQmqcmTo?si=Eej4dS1JY42ZNpt3)
+[Video Tutorial](https://youtu.be/CsVbQmqcmTo?si=Eej4dS1JY42ZNpt3)
 
 ## Files you will need
 - Super Mario 64 DS.nds
