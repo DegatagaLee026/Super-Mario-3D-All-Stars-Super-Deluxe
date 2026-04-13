@@ -4,7 +4,7 @@ Super Mario 3D All-Stars Super Deluxe Installer v1.0
 
 Welcome! Thank you for downloading my first mod!
 
-This modification of Super Mario 3D All-Stars Deluxe adds up to four additional games to the launcher:
+Super Deluxe is a mod for Super Mario 3D All-Stars Deluxe that adds up to four additional games to the launcher:
 - Super Mario 64 DS
 - Super Mario Eclipse
 - Super Mario 3D World + Bowser's Fury
@@ -56,6 +56,8 @@ How to install games to the launcher:
 Known Issues:
 - When using certain switch emulators (Yuzu, Ryujinx, Citron), the launcher is unable to boot straight into Odyssey or 3d World. Instead, it will just open the emulator without booting a game. 
 For best compatibility, use Eden, as that is the only one known to be able to boot straight into games without any additional input.
+
+- Upon booting Super Mario 64 DS, DeSmuME will not launch full-screen. Press Alt + Enter to full-screen the window manually.
 
 
 Other tools available through this mod:
