@@ -1,7 +1,7 @@
 # Super Mario 3D All-Stars Super Deluxe
 <img width="2160" height="540" alt="3D All Stars SUPER DELUXE banner" src="https://github.com/user-attachments/assets/77c1f929-bc1e-453b-a49c-995f20c250ed" />
 
-This modification of [Super Mario 3D All-Stars Deluxe](https://gitlab.com/Minibattle/super-mario-3d-all-stars-deluxe) by Minibattle adds up to four additional games to the launcher:
+Super Deluxe is a mod for [Super Mario 3D All-Stars Deluxe](https://gitlab.com/Minibattle/super-mario-3d-all-stars-deluxe) by Minibattle that adds up to four additional games to the launcher:
 
 - Super Mario 64 DS
 - Super Mario Eclipse
@@ -14,6 +14,7 @@ You may choose which games to install during setup.
 
 ### [DOWNLOAD HERE](https://github.com/DegatagaLee026/Super-Mario-3D-All-Stars-Super-Deluxe/releases/tag/v1.0)
 
+### [VIDEO TUTORIAL](https://youtu.be/CsVbQmqcmTo?si=Eej4dS1JY42ZNpt3)
 
 ## Files you will need
 - Super Mario 64 DS.nds
@@ -57,6 +58,8 @@ Super Mario 3D All-Stars Deluxe/
 ## Known Issues
 When using certain switch emulators (Yuzu, Ryujinx, Citron), the launcher is unable to boot straight into Odyssey or 3d World. Instead, it will just open the emulator without booting a game. 
 For best compatibility, use Eden, as that is the only one known to be able to boot straight into games without any additional input.
+
+Upon booting Super Mario 64 DS, DeSmuME will not launch full-screen. Press Alt + Enter to full-screen the window manually.
 
 
 ## Other tools available through this mod
